@@ -17,7 +17,7 @@
     "require": {
         "php": "^8.2",
         "doctrine/annotations": "^2.0",
-        "illuminate/http": "^10.15|^11.0",
+        "illuminate/http": "^10.0|^11.0",
         "symfony/property-access": "^6.3|^7.0",
         "symfony/serializer": "^6.3|^7.0",
         "symfony/serializer-pack": "^1.3"
